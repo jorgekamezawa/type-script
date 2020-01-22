@@ -1,0 +1,30 @@
+.container{
+    margin: 0 0 10px;
+    padding: 0;
+    display: flex;
+}
+
+ul li:first-child{
+    height: 20px;
+}
+
+.caixa {
+    width: 15%;
+    margin-left: 5px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+}
+
+.titulo{
+    background: green;
+    vertical-align: top;
+}
+
+.titulo p {
+        text-align: center;
+        margin: 0;
+}
+
+.conteudo-caixa p{
+    margin: 2px;
+}
